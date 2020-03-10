@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/jpqy/cats/issues"
   },
-  "homepage": "https://github.com/jpqy/cats#readme"
+  "homepage": "https://github.com/jpqy/cats#readme",
+  "devDependencies": {
+    "chai": "^4.2.0"
+  }
 }
